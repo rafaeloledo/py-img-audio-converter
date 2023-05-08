@@ -5,7 +5,7 @@
 - ``moviepy``
   - https://zulko.github.io/moviepy/
 - ``ffmpeg``
-  - https://zulko.github.io/moviepy/
+  - https://ffmpeg.org/
 - ``scoop``
   - https://scoop.sh/
 
