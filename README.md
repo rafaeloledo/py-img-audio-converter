@@ -29,3 +29,7 @@ scoop install ffmpeg
 On Linux:
 
 - Install the deps with your distro's package manager. :)
+
+## Motivation
+
+- After exporting an .mp4 edited video with a budget editor, you can convert it to a .m4a.
