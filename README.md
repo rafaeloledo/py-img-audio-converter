@@ -6,10 +6,8 @@
   - https://zulko.github.io/moviepy/
 - ``ffmpeg``
   - https://ffmpeg.org/
-- ``scoop``
+- ``scoop`` (for windows)
   - https://scoop.sh/
-
-currently tested on ``windows``
 
 ### Usage
 
