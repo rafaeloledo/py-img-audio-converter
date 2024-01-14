@@ -1,12 +1,14 @@
 ### Dependencies
 
-- ``python``
+- `python`
   - https://www.python.org/
-- ``moviepy``
+- `moviepy`
   - https://zulko.github.io/moviepy/
-- ``ffmpeg``
+- `ffmpeg`
   - https://ffmpeg.org/
-- ``scoop`` (for windows)
+- `Pillow`
+  - https://pillow.readthedocs.io/en/stable/
+- `scoop` (for windows)
   - https://scoop.sh/
 
 ### Usage
@@ -15,21 +17,20 @@
 python mp4tom4a.py input_file.mp4 output_file.m4a
 ```
 
+```
+python webptojpeg.py input_file.webp output_file.jpg
+```
+
 ### Quickstart
 
 On Windows:
 
 ```
 pip install moviepy
+pip install Pillow
 ```
+
 ```
 scoop install ffmpeg
 ```
 
-On Linux:
-
-- Install the deps with your distro's package manager. :)
-
-## Motivation
-
-- After exporting an .mp4 edited video with a budget editor, you can convert it to a .m4a.
